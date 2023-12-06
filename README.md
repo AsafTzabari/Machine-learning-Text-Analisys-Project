@@ -26,6 +26,13 @@ In the project, we aim to develop a machine learning model that can predict a pe
 
 5. **Evaluation:**
    - Evaluate the model's performance using macro F1-score to assess its ability to predict gender based on text data.
+     
+### Results
+
+The model's performance is evaluated using the F1-score.
+The F1-score is calculated for both male and female classes, and the average F1-score is computed to
+provide an overall assessment of the model's effectiveness.
+The best model we tested is the Perceptron , with F1 score of 0.694
 
 ### Technology Used
 <div>
@@ -44,6 +51,7 @@ In the project, we aim to develop a machine learning model that can predict a pe
 3. Open the provided Jupyter Notebook `text-analysis.ipynb` to see the code and explanations.
 
 ### Usage
+
 1. Load the training data from `annotated_corpus_for_train.csv`.
 
 2. Preprocess the data using the cleaning and formatting scripts provided.
