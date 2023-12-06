@@ -43,7 +43,7 @@ Welcome to the "Text Classification for Gender Prediction" project. This initiat
 3. Open the provided Jupyter Notebook `text-analysis.ipynb` to see the code and explanations.
 
 ### Usage
-1. Load the training data from text_data.csv.
+1. Load the training data from `annotated_corpus_for_train.csv`.
 
 2. Preprocess the data using the cleaning and formatting scripts provided.
 
