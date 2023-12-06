@@ -1,7 +1,5 @@
 # Machine-learning-Text-Analisys-Project
 
-Contact: asafzabary@gmail.com , idanbiton28@gmail.com 
-
 Project Title: Text Classification for Gender Prediction
 
 Project Overview:
