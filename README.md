@@ -1,10 +1,11 @@
-# Machine-learning-Text-Analisys-Project
 
-## Project Title: Text Classification for Gender Prediction
+div align="center">
+  <h1>Text Classification for Gender Prediction</h1>
+</div>
 
 ### Project Overview
 
-Welcome to the "Text Classification for Gender Prediction" project. This initiative aims to develop a machine learning model capable of predicting a person's gender based on textual data, such as text narratives or stories. Leveraging natural language processing (NLP) techniques and machine learning algorithms, we will analyze and classify text data into binary gender categories (e.g., male or female).
+In the project, we aim to develop a machine learning model that can predict a person's gender based on textual data, such as text narratives or stories. The project utilizes natural language processing (NLP) techniques and machine learning algorithms to analyze and classify text data into binary gender categories (e.g., male or female).
 
 ### Project Objectives
 
